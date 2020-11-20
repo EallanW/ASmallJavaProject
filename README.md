@@ -1,4 +1,4 @@
-# ASmallJavaProject3
+# ASmallJavaProject
 
 If you run the project in Intellij Idea, please set the Java compiler to Java 1.8.  
 
